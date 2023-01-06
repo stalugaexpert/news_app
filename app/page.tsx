@@ -4,7 +4,7 @@ import NewsList from './NewsList'
 import response from '../response.json'
 
 async function Homepage() {
-  const news: NewsResponse = response || (await fetchNews(categories.join(','))) // change to '||' to use mocked data
+  const news: NewsResponse = response && (await fetchNews(categories.join(','))) // change to '||' to use mocked data
 
   return (
     <div>
