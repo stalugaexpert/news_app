@@ -1,12 +1,11 @@
 # Next.js + Tailwind CSS Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+News feed app with ability to search by category, input term or just explore the whole news feed (with dark & light mode available) - built using new Next 13 features (including app directory, loading component etc.).
+Tech stack: Typescript, GraphQL, Stepzen, Tailwind
 
-## Deploy your own
+## Check the deployment under this link:
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+https://news-app-umber.vercel.app/
 
 ## How to use
 
