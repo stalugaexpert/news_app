@@ -1,6 +1,7 @@
 # Next.js 13 News App
 
 News feed app with ability to search by category, input term or just explore the whole news feed (with dark & light mode available) - built using new Next 13 features (including app directory, loading component etc.).
+
 Tech stack: Typescript, GraphQL, Stepzen, Tailwind
 
 ## Check the deployment under this link:
